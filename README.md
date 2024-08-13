@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Akankhya-Sahoo18/Akankhya-Sahoo18/blob/main/LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Akankhya Sahoo</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1894420/screenshots/14032021/media/a85f637f1eb4cd5efdd307f9760472a1.gif">
